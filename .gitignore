@@ -1,4 +1,8 @@
 Digit\ Recognizer/data/*
 Digit Recognizer/data/*
+<<<<<<< HEAD
 *.csv
 *.h5
+=======
+*.csv
+>>>>>>> refs/remotes/origin/master
